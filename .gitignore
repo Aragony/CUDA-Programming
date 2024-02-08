@@ -3,4 +3,4 @@ src/*/*.exp
 src/*/*.lib
 src/*/*.obj
 src/*/*/a.out
-
+src/*/a.out
